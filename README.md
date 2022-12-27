@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uttam-parmar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript & python
 - 📫 email:hp194880@gmail.com
 
 <!---
