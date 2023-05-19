@@ -11,7 +11,8 @@ A student and passionate developer from India</div>
 - 🌱 I’m currently learning wordpress & PHP  
   
 
-- 👨‍💻 All of my projects are available at https://github.com/uttam-parmar  
+- 👨‍💻 All of my projects are available at https://github.com/uttam-parmar
+- 📫 How to reach me hp194880@gmail.com
   
 
 <br/>  
