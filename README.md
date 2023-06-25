@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm uttam parmar</h1>
 <h3 align="center">A student and passionate developer from India</h3>
 
-- 🔭 I’m currently working on **javascript project**
+- 🔭 I’m currently working on **javascript**
 
 - 🌱 I’m currently learning **javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uttam-parmar](https://github.com/uttam-parmar)
+
+- 💬 Ask me about **html,css,js,php,mysql**
 
 - 📫 How to reach me **hp194880@gmail.com**
 
